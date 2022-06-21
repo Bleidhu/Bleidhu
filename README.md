@@ -6,7 +6,7 @@
 <a href="https://github.com/Bleidhu">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bleidhu&layout=compact&theme=radical" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Bleidhu}u&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Bleidhu}&left_color=green&right_color=red)
 
 
 

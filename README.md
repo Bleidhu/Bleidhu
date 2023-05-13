@@ -6,12 +6,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bleidhu&layout=compact&theme=radical" />
 </a> </br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bleidhu&left_color=gray&right_color=blue)
-
-[![Years Badge](https://badges.pufler.dev/years/Bleidhu)](https://badges.pufler.dev)
-
-[![Repos Badge](https://badges.pufler.dev/repos/Bleidhu)](https://badges.pufler.dev)
-
 
 <!--
 **SimonR16/SimonR16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
